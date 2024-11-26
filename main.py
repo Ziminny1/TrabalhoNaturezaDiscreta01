@@ -1,8 +1,3 @@
-# Renan Antonio Hammerschmidt Krefta
-
-# ENUNCIADO: Para obter os pontos relativos a este trabalho, você deverá criar um programa, utilizando a linguagem Python, C, ou C++. Este programa, quando executado, irá apresentar os resultados de operações que serão realizadas entre dois conjuntos de dados.  
-
-# Trocar o arquivo de entrada aqui.
 with open('teste1.txt') as f:
 
     mat = []
